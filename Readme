@@ -1,10 +1,8 @@
-please start by cloning the Earthquake-predictor 
+rescue radar website :- 
+https://66a68b3c76df8d76835a25ad--timely-biscuit-50d318.netlify.app/
 
-and then create a react app named disaster using 
-
-cd Earthquake-predictor 
-npx create-react-app disaster
-
-then copy everything from disaster folder to here 
-
-due to the large size of the node modules we are not able to upload it 
+run in vs code :- python app.py
+                  python chat.py
+                  python zoo.py
+                  python hey.py 
+to run the website
